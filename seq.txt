@@ -1,0 +1,13 @@
+
+
+1. C:\Users\paulo.galindo.junior\Desktop\CursoFramesWeb\angular1>npm run dev
+
+2. C:\Users\paulo.galindo.junior>mongod
+
+3. C:\Users\paulo.galindo.junior\Desktop\CursoFramesWeb\backend>npm run production
+
+4. C:\Users\paulo.galindo.junior\Desktop\CursoFramesWeb\backend>pm2 delete backend
+
+5. C:\Users\paulo.galindo.junior\Desktop\CursoFramesWeb\backend>pm2 monit
+
+6. C:\Users\paulo.galindo.junior\Desktop\CursoFramesWeb\backend>pm2 status backend
